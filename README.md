@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Rose UMUTESI
 
-<!--
-**Hoga30/Hoga30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## About Me
+I'm a passionate backend developer with extensive experience in designing and developing scalable web applications. My expertise lies in server-side technologies, databases, and creating efficient APIs.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently a student at #University of Rwanda in Computer science.
+  
+- ⚡ Fun fact:  I am also a Certified with leadership, good at  Rwanda traditional dancing, and a   speaking, and writing skills.
+
+- ##💻 Languages and Tools:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+- ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+- ![Java](https://img.shields.io/badge/Java-11-orange)
+
+  ## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoga30&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoga30&layout=compact&theme=radical)
