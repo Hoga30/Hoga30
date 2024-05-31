@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently a student at University of Rwanda in Computer Science.
   
-- ⚡ Fun fact:  I am also a Certified with leadership, good at  Rwanda traditional dancing, and a   speaking, and writing skills.
+- ⚡ Fun fact:  I am also a Certified with leadership, good at  Rwanda traditional dancing, and  excels in public speaking.
 
- ##💻 Languages and Tools:
+## 💻 Languages and Tools:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 - ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 - ![Java](https://img.shields.io/badge/Java-11-orange)
 
-  ## GitHub Stats
+## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoga30&show_icons=true&theme=radical)
 
 ## Top Languages
